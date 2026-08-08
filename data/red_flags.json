@@ -1,0 +1,44 @@
+{
+  "red_flags": [
+    {
+      "keywords": ["chest pain", "chest tightness", "chest pressure"],
+      "reason": "Chest pain can indicate a heart attack or other serious cardiac event. Seek emergency care immediately."
+    },
+    {
+      "keywords": ["difficulty breathing", "can't breathe", "cannot breathe", "shortness of breath", "trouble breathing"],
+      "reason": "Sudden or severe breathing difficulty may indicate a medical emergency. Call emergency services immediately."
+    },
+    {
+      "keywords": ["suicidal", "want to die", "kill myself", "end my life", "self harm", "self-harm"],
+      "reason": "This sounds like a mental health crisis. Please contact a crisis helpline or emergency services immediately."
+    },
+    {
+      "keywords": ["severe bleeding", "won't stop bleeding", "blood won't stop", "heavy bleeding"],
+      "reason": "Severe or uncontrolled bleeding requires immediate emergency care."
+    },
+    {
+      "keywords": ["stroke", "face drooping", "arm weakness", "sudden numbness", "sudden confusion", "sudden vision loss"],
+      "reason": "These may be signs of a stroke. Call emergency services immediately — time is critical."
+    },
+    {
+      "keywords": ["unconscious", "unresponsive", "not breathing", "stopped breathing", "no pulse"],
+      "reason": "This is a life-threatening emergency. Call emergency services immediately."
+    },
+    {
+      "keywords": ["severe allergic reaction", "anaphylaxis", "throat closing", "throat swelling", "can't swallow"],
+      "reason": "Severe allergic reactions can be life-threatening. Use an EpiPen if available and call emergency services."
+    },
+    {
+      "keywords": ["overdose", "took too many pills", "took too much medication"],
+      "reason": "A possible drug overdose is a medical emergency. Call poison control or emergency services immediately."
+    },
+    {
+      "keywords": ["seizure", "convulsion", "fitting", "fit"],
+      "reason": "Seizures may require immediate medical attention, especially if it's a first seizure or lasts more than 5 minutes."
+    },
+    {
+      "keywords": ["high fever", "fever above 39", "fever over 39", "fever above 40", "fever over 40", "104 fever", "103 fever"],
+      "reason": "A very high fever can be dangerous and may require urgent medical evaluation."
+    }
+  ]
+}
